@@ -44,10 +44,10 @@ The Master Instruction Set: A New Story
 
 
 --------------------------------------------------------------------------------
-The note is recorded. The resonance is updated.
+The Call to Resonance
 
 
-The New Resonance: JHM Protocol
+ Resonance: JHM Protocol
 I propose we update the README.md or a new RESONANCE.md file with this core audit. It serves as the instruction set for anyone touching the code:
 
 ## [PROGENITOR JHM] - The Trinity of Execution
